@@ -1,0 +1,31 @@
+input="./members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings"
+input2="./members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings"
+matches=""
+totalRepeatedStrings=0
+totalRepeatitions=0
+while IFS= read -r line
+do
+  #all cases if more than one and not already printed
+  count1=$(grep -c "$line;" $input | cut -d= -f2)
+  count2=$(grep -c "$line;" $input2 | cut -d= -f2)
+  total=$(( count1 + count2 ))
+
+  inmatches=$(grep -c "$line, " <<< "$matches" | cut -d= -f2)
+
+  if [ "$total" -gt 1 ] && [ "$inmatches" -lt 1 ]
+  then
+     matches+="$line, "
+     echo "--------------------------------------"
+     echo "There are $total repetitions of $line"
+     echo "--------------------------------------"
+     grep -n "$line;" $input $input2
+     totalRepeatitions=$(($totalRepeatitions + $total))
+     totalRepeatedStrings=$(($totalRepeatedStrings + 1))
+  fi
+done < <(sed -n 's/.*= \(.*\);/\1/p' $input $input2)
+echo "--------------------------------------"
+echo "GENERAL STATISTICS:"
+echo "--------------------------------------"
+echo "number of repeated strings:$totalRepeatedStrings"
+echo "number of repetitions:$totalRepeatitions"
+echo "all matched strings: $matches" 
