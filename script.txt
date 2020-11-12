@@ -1,8 +1,9 @@
-input="./members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings"
-input2="./members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings"
+input="../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings"
+input2="../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings"
 matches=""
 totalRepeatedStrings=0
 totalRepeatitions=0
+echo -n "" > log.txt
 while IFS= read -r line
 do
   #all cases if more than one and not already printed
@@ -15,17 +16,17 @@ do
   if [ "$total" -gt 1 ] && [ "$inmatches" -lt 1 ]
   then
      matches+="$line, "
-     echo "--------------------------------------"
-     echo "There are $total repetitions of $line"
-     echo "--------------------------------------"
-     grep -n "$line;" $input $input2
+     echo "--------------------------------------" >> log.txt
+     echo "There are $total repetitions of $line" >> log.txt
+     echo "--------------------------------------" >> log.txt
+     grep -n "$line;" $input $input2 >> log.txt
      totalRepeatitions=$(($totalRepeatitions + $total))
      totalRepeatedStrings=$(($totalRepeatedStrings + 1))
   fi
 done < <(sed -n 's/.*= \(.*\);/\1/p' $input $input2)
-echo "--------------------------------------"
-echo "GENERAL STATISTICS:"
-echo "--------------------------------------"
-echo "number of repeated strings:$totalRepeatedStrings"
-echo "number of repetitions:$totalRepeatitions"
-echo "all matched strings: $matches" 
+echo "--------------------------------------" >> log.txt
+echo "GENERAL STATISTICS:" >> log.txt
+echo "--------------------------------------" >> log.txt
+echo "number of repeated strings:$totalRepeatedStrings" >> log.txt
+echo "number of repetitions:$totalRepeatitions" >> log.txt
+echo "all matched strings: $matches"  >> log.txt
