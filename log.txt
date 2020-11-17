@@ -1,0 +1,21 @@
+--------------------------------------
+There are 2 repetitions of "Contact this doctor"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:135:"YF_MY_BABY_CONSENT_CONTACT_THIS_DOCTOR" = "Contact this doctor";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2632:"HEALTH_PROVIDER_DETAIL_SCREEN_HEALTH_TAP_CONSULTATION_CELL_CONTACT_DOCTOR_BUTTON_TEXT" = "Contact this doctor";
+--------------------------------------
+There are 2 repetitions of "You have declined this doctors request to view your health records."
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:150:"YF_MY_BABY_CONSENT_DECLINED_DESCRIPTION" = "You have declined this doctors request to view your health records.";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2650:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_DECLINED_CELL_DESCRIPTION" = "You have declined this doctors request to view your health records.";
+--------------------------------------
+There are 2 repetitions of "Are you sure you want to grant consent and accept the terms and conditions?"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:165:"YF_MY_BABY_CONSENT_GRANT_CONSENT_CONFIRMATION" = "Are you sure you want to grant consent and accept the terms and conditions?";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4243:"GRANT_CONSENT_CONFIRMATION_MESSAGE" = "Are you sure you want to grant consent and accept the terms and conditions?";
+--------------------------------------
+There are 3 repetitions of "Health Record Consent"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:168:"YF_MY_BABY_CONSENT_PROVIDER_DETAILS_HEALTH_RECORD_CONSENT" = "Health Record Consent";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2632:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_GRANTED_CELL_TITLE" = "Health Record Consent";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2641:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_NOT_GRANTED_CELL_TITLE" = "Health Record Consent";
