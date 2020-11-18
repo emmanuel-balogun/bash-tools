@@ -4,7 +4,7 @@ input2="../members-health-ios-backup/members-health-ios/App/Pods/MembersLocaliza
 
 pathToGlueCodeGen="../members-health-ios-backup/members-health-ios/string_gen.sh"
 pathToMemberApp="../releases/memberapp-ios-2020.09.20/"
-pathToMembersHealth="../members-health-ios-backup/members-health-ios/"
+pathToMembersHealth="../members-health-ios-backup/members-health-ios"
 samples="samples.txt"
 
 matches=""
@@ -43,17 +43,14 @@ function findDuplications {
         read </dev/tty newKey
         if [ "$newKey" != "" ]
         then
-          echo "Press [RETURN] to remove old keys in health string"
-          read </dev/tty any
+          echo "Removing old keys in health string"
           removeOldKeysFromHealth "$duplicateLines"
           
-          echo "Press [RETURN] to replace old keys in members health"
-          read </dev/tty any
+          echo "Replacing old keys in members health"
           replaceKeys "$duplicateLines" "$newKey"
 
-          echo "Press [RETURN] to run glue code gen"
-          read </dev/tty any
-          sh $pathToGlueCodeGen $newKey "${line}"
+          echo "Running glue code gen"
+          sh $pathToGlueCodeGen $newKey $line
         fi
       fi
 
@@ -80,10 +77,9 @@ function removeOldKeysFromHealth {
 
 function replaceKeys {
   newkey="\"$2\""
-  echo "newkey = $newkey"
   while IFS= read -r oldkey
   do
-    grep -rl "$oldkey" $pathToMemberApp
+    #grep -rl "$oldkey" $pathToMemberApp
     grep -rl "$oldkey" $pathToMembersHealth | xargs sed -i '' -e "s/$oldkey/$newkey/g"
   done < <(sed 's/[[:space:]].*//' <<< $1)
 }

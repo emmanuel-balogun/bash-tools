@@ -1,21 +1,324 @@
 --------------------------------------
 There are 2 repetitions of "Contact this doctor"
 --------------------------------------
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:135:"YF_MY_BABY_CONSENT_CONTACT_THIS_DOCTOR" = "Contact this doctor";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2632:"HEALTH_PROVIDER_DETAIL_SCREEN_HEALTH_TAP_CONSULTATION_CELL_CONTACT_DOCTOR_BUTTON_TEXT" = "Contact this doctor";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:138:"YF_MY_BABY_CONSENT_CONTACT_THIS_DOCTOR" = "Contact this doctor";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2634:"HEALTH_PROVIDER_DETAIL_SCREEN_HEALTH_TAP_CONSULTATION_CELL_CONTACT_DOCTOR_BUTTON_TEXT" = "Contact this doctor";
 --------------------------------------
 There are 2 repetitions of "You have declined this doctors request to view your health records."
 --------------------------------------
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:150:"YF_MY_BABY_CONSENT_DECLINED_DESCRIPTION" = "You have declined this doctors request to view your health records.";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2650:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_DECLINED_CELL_DESCRIPTION" = "You have declined this doctors request to view your health records.";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:153:"YF_MY_BABY_CONSENT_DECLINED_DESCRIPTION" = "You have declined this doctors request to view your health records.";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2652:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_DECLINED_CELL_DESCRIPTION" = "You have declined this doctors request to view your health records.";
 --------------------------------------
 There are 2 repetitions of "Are you sure you want to grant consent and accept the terms and conditions?"
 --------------------------------------
 ../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:165:"YF_MY_BABY_CONSENT_GRANT_CONSENT_CONFIRMATION" = "Are you sure you want to grant consent and accept the terms and conditions?";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4243:"GRANT_CONSENT_CONFIRMATION_MESSAGE" = "Are you sure you want to grant consent and accept the terms and conditions?";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4239:"GRANT_CONSENT_CONFIRMATION_MESSAGE" = "Are you sure you want to grant consent and accept the terms and conditions?";
 --------------------------------------
 There are 3 repetitions of "Health Record Consent"
 --------------------------------------
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:168:"YF_MY_BABY_CONSENT_PROVIDER_DETAILS_HEALTH_RECORD_CONSENT" = "Health Record Consent";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2632:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_GRANTED_CELL_TITLE" = "Health Record Consent";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2641:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_NOT_GRANTED_CELL_TITLE" = "Health Record Consent";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:165:"YF_MY_BABY_CONSENT_PROVIDER_DETAILS_HEALTH_RECORD_CONSENT" = "Health Record Consent";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2628:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_GRANTED_CELL_TITLE" = "Health Record Consent";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2637:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_NOT_GRANTED_CELL_TITLE" = "Health Record Consent";
+--------------------------------------
+There are 2 repetitions of "Pregnancy health record"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:252:"YF_PREGNANCY_DASHBOARD_PREGNANCY_HEALTH_RECOORD_TITLE" = "Pregnancy health record";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:777:"YF_PREGNANCY_HEALTH_RECORD_TITLE" = "Pregnancy health record";
+--------------------------------------
+There are 2 repetitions of "Healthy pregnancy library"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:252:"YF_PREGNANCY_DASHBOARD_PREGNANCY_LIBRARY_TITLE" = "Healthy pregnancy library";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:261:"YF_HEALTHY_PREGNANCY_LIBRARY_SCREEN_TITLE" = "Healthy pregnancy library";
+--------------------------------------
+There are 3 repetitions of "Kids health record"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:303:"YF_BABY_DASHBOARD_BABY_KIDS_HEALTH_RECORD_CELL_TITLE" = "Kids health record";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:453:"YF_MY_BABY_KIDS_EHR_SCREEN_TITLE" = "Kids health record";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:768:"YF_KIDS_HEALTH_RECORD_TITLE" = "Kids health record";
+--------------------------------------
+There are 6 repetitions of "Done"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:351:"YF_PREGNANCY_PROFILE_DONE" = "Done";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:645:"DONE_TEXT" = "Done";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:585:"DONE_BUTTON_TITLE" = "Done";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:726:"Done" = "Done";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1285:"MAP_ADDRESS_SEARCH_VIEWCONTROLLER_DONE_BUTTON_TITLE" = "Done";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3467:"REGISTRATION_NAVIGATION_DONE_BUTTON_TITLE" = "Done";
+--------------------------------------
+There are 3 repetitions of "Years"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:474:"YF_GROWTH_MEASUREMENT_YEARS_LABEL_TEXT" = "Years";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:786:"YOUNG_FAMILIES_MILESTONES_CAPTURE_MILESTONE_AGE_LIMIT_YEARS" = "Years";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2744:"Years" = "Years";
+--------------------------------------
+There are 13 repetitions of "Cancel"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:639:"CANCEL_TEXT" = "Cancel";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1218:"YFPA_ALERT_CANCEL_ACTION_TITLE" = "Cancel";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3018:"SMART_ONBOARDING_PHARMACY_SELECTION_FAILED_CANCEL" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:69:"ACTION_SHEET_CANCEL_BUTTON" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:99:"ALERT_VIEW_CANCEL_BUTTON" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:210:"CANCEL_BAR_BUTTON_TITLE" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:213:"CANCEL_BUTTON_TITLE" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:267:"Cancel" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1288:"MAP_ADDRESS_SEARCH_VIEWCONTROLLER_LOCATION_SERVICES_ALERT_CONTROLLER_CANCEL_BUTTON_TITLE" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1651:"PASSES_VIEW_CONTROLLER_ALERT_VIEW_CANCEL_BUTTON_TITLE" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2134:"SCANNER_ALERT_CANCEL_BUTTON" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2488:"TERMS_AND_CONDITIONS_SHARE_ACTIONSHEET_CANCEL_BUTTON_TITLE" = "Cancel";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3698:"REGISTRATION_PROFILE_CANCEL" = "Cancel";
+--------------------------------------
+There are 2 repetitions of "Adequately managed"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:990:"EAP_RISK_ASSESSMENT_STATUS_ADEQUATELY_MANAGED" = "Adequately managed";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3696:"EAP_EMOTIONAL_DIMENSION_ADEQUATELY_MANAGED_TEXT" = "Adequately managed";
+--------------------------------------
+There are 5 repetitions of "Summary"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1191:"YFPA_SUBMISSION_SUMMARY_TITLE" = "Summary";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3615:"HEALTH_MEDXPRESS_PENDING_ORDERS_SCRIPT_DETAILS_SUMMARY_SECTION_TITLE" = "Summary";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:972:"GENERAL_SUMMARY_VIEW_CONTROLLER_TITLE" = "Summary";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2467:"Summary" = "Summary";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:4376:"RECOMMENDER_UPSELL_AND_LEADS_CALL_ME_BACK_SUCCESSFUL_SUMMARY_SCREEN_SCREEN_TITLE" = "Summary";
+--------------------------------------
+There are 8 repetitions of "Email"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1206:"YFPA_EMAIL_TITLE" = "Email";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2442:"SMART_PROVIDER_DETAIL_EMAIL_CELL_TITLE" = "Email";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4407:"NEW_ORDER_SUMMARY_PATIENT_EMAIL" = "Email";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:819:"Email" = "Email";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1132:"JOIN_DISCOVERY_CELL_EMAIL_TITLE" = "Email";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2239:"SHORTCUTS_CONTACT_EMAIL_ADDRESS" = "Email";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3374:"MEM_HEALTH_EAP_EMAIL_TITLE" = "Email";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3686:"REGISTRATION_PROFILE_EMAIL_LABEL" = "Email";
+--------------------------------------
+There are 2 repetitions of "This application for hospital preauthorisation is pending. We will notify you within 48 hours if the application has been approved."
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1227:"YFPA_STATUS_PENDING_DESCRIPTION" = "This application for hospital preauthorisation is pending. We will notify you within 48 hours if the application has been approved.";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1275:"YFPA_APPROVED_DESCRIPTION" = "This application for hospital preauthorisation is pending. We will notify you within 48 hours if the application has been approved.";
+--------------------------------------
+There are 2 repetitions of "Delivery details"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1266:"YFPA_CREATE_PREAUTORISATION_STEP_ONE_DELIVERY_INFORMATION_TITLE" = "Delivery details";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1275:"YFPA_DELIVERY_DETAILS_TEXT" = "Delivery details";
+--------------------------------------
+There are 2 repetitions of "Treating doctor"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1287:"YFPA_DETAILS_TREATING_DOCTOR" = "Treating doctor";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1335:"YFPA_DOCTOR_SEARCH_SCREEN_TITLE" = "Treating doctor";
+--------------------------------------
+There are 2 repetitions of "Discovery payment"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1482:"YF_COST_ESTIMATOR_TOTAL_DISCOVERY_PAYMENT_CELL_TITLE" = "Discovery payment";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1512:"YF_COST_ESTIMATOR_COST_BREAKDOWN_DISCOVERY_PAYMENT_TITLE" = "Discovery payment";
+--------------------------------------
+There are 2 repetitions of "Add medicine"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1530:"MEDICINE_TRACKER_ADD_MEDICINE_SCREEN_TITLE" = "Add medicine";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1578:"MEDICINE_TRACKER_PILL_BOX_EMPTY_STATE_BUTTON_TITLE" = "Add medicine";
+--------------------------------------
+There are 5 repetitions of "Delete"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1596:"YFPA_DELETE_PREAUTH_ALERT_BUTTON_TITLE" = "Delete";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1839:"MEDICINE_TRACKER_SCHEDULED_PILL_DELETE" = "Delete";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1842:"MEDICINE_TRACKER_REFILL_PILL_DELETE" = "Delete";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1863:"MEDICINE_TRACKER_REFILL_DELETE_BUTTON_TITLE" = "Delete";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5196:"MEDICINE_TRACKER_CONFIRM_DELETE_ALERT_BUTTON" = "Delete";
+--------------------------------------
+There are 2 repetitions of "Every week"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1707:"MEDICINE_TRACKER_ADD_MEDICINE_DETAIL_FREQUENCY_EVERY_WEEK_TEXT" = "Every week";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1770:"MEDICINE_TRACKER_FREQUENCY_WEEKLY" = "Every week";
+--------------------------------------
+There are 2 repetitions of "Annual limit"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1806:"BENEFITS_USED_ANNUAL_LIMIT_TEXT" = "Annual limit";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3627:"HEALTH_BENEFITS_USED_ANNUAL_LIMIT_TEXT" = "Annual limit";
+--------------------------------------
+There are 2 repetitions of "Taken"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1809:"MEDICINE_TRACKER_ADHERENCE_STATUS_TAKEN" = "Taken";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1827:"MEDICINE_TRACKER_SCHEDULED_PILL_TAKE" = "Taken";
+--------------------------------------
+There are 2 repetitions of "Turn on notifications"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1986:"MEDICINE_TRACKER_NOTIFICATIONS_TITLE" = "Turn on notifications";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1995:"MEDICINE_TRACKER_NOTIFICATIONS_CONTEXTUAL_ALERT_TITLE" = "Turn on notifications";
+--------------------------------------
+There are 2 repetitions of "Turn on notifications from the Settings app to get reminders when to take your medicine."
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1986:"MEDICINE_TRACKER_NOTIFICATIONS_SUBTITLE" = "Turn on notifications from the Settings app to get reminders when to take your medicine.";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1992:"MEDICINE_TRACKER_NOTIFICATIONS_CONTEXTUAL_ALERT_SUBTITLE" = "Turn on notifications from the Settings app to get reminders when to take your medicine.";
+--------------------------------------
+There are 4 repetitions of "Status"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2127:"HEALTH_CHRONIC_DASHBOARD_MEDICINE_CELL_STATUS_TITLE" = "Status";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2703:"SMART_CHRONIC_CONDITION_MEDICINE_STATUS_CELL_TITLE" = "Status";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4287:"SERVICE_INTERACTION_DETAIL_STATUS" = "Status";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2434:"Status" = "Status";
+--------------------------------------
+There are 3 repetitions of "Contact number"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2253:"INSURE_SUBMIT_A_CLAIM_LANDING_SCREEN_CONTACT_NUMBER_CELL_TITLE" = "Contact number";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2370:"SMART_PROVIDER_DETAIL_CONTACT_NUMBER_CELL_TITLE" = "Contact number";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5241:"MEDXPRESS_RECIPIENT_INFO_CONTACT_NUMBER_TEXT" = "Contact number";
+--------------------------------------
+There are 3 repetitions of "Could not revoke consent"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2280:"SMART_PROVIDER_DETAIL_SCREEN_CONSENT_REVOKE_ERROR" = "Could not revoke consent";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4125:"COULD_NOT_REVOKE_REQUEST" = "Could not revoke consent";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:516:"Could not revoke consent" = "Could not revoke consent";
+--------------------------------------
+There are 3 repetitions of "Interaction timeline"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2400:"SMART_FIRSTTIME_INTERACTION_TIMELINE" = "Interaction timeline";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2433:"SMART_TIMELINE_INTERACTION_CONTROLLER_TITLE" = "Interaction timeline";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3159:"HEALTH_INTERACTION_TIMELINE_CELL_TITLE" = "Interaction timeline";
+--------------------------------------
+There are 5 repetitions of "Help"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2406:"SMART_FIRSTTIME_HELP" = "Help";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2826:"SMART_HELP_SCREEN_TITLE" = "Help";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3702:"HEALTH_LANDING_HELP_SECTION_TITLE" = "Help";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3719:"REGISTRATION_HELP_SECTION_TITLE" = "Help";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3791:"PAR_CHALLENGE_LEARN_MORE_HELP" = "Help";
+--------------------------------------
+There are 4 repetitions of "Appointments"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2433:"SMART_TIMELINE_APPOINTMENTS_SCREEN_TITLE" = "Appointments";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2589:"SMART_APPOINTMENTS_SCREEN_TITLE" = "Appointments";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2811:"SMART_FIRSTTIME_APPOINTMENTS" = "Appointments";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3756:"HEALTH_LANDING_APPOINTMENTS_TITLE" = "Appointments";
+--------------------------------------
+There are 2 repetitions of "Smart Network"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2463:"SMART_FIND_A_PROVIDER_GP_FILTER_IS_SMART_POLICY_TITLE" = "Smart Network";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2553:"SMART_FIND_PROVIDER_SMART_NETWORK_TITLE" = "Smart Network";
+--------------------------------------
+There are 2 repetitions of "Prescribed Minimum Benefits"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2562:"SMART_ADDITIONAL_BENEFITS_LANDING_SCREEN_MINIMUM_BENEFITS_MENU_ITEM" = "Prescribed Minimum Benefits";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2934:"SMART_PMB_CONTROLLER_TITLE" = "Prescribed Minimum Benefits";
+--------------------------------------
+There are 2 repetitions of "International second opinion services"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2568:"SMART_ADDITIONAL_BENEFITS_LANDING_SCREEN_SECOND_OPINION_MENU_ITEM" = "International second opinion services";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2820:"SMART_INTERNATIONAL_SECOND_OPINION_CONTROLLER_TITLE" = "International second opinion services";
+--------------------------------------
+There are 4 repetitions of "Benefits used"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2709:"SMART_COVER_LANDING_SCREEN_BENEFITS_USED_CELL_TEXT" = "Benefits used";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3744:"HEALTH_LANDING_BENEFITS_USED_TITLE" = "Benefits used";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3894:"BENEFIT_USED_CONTROLLER_TITLE" = "Benefits used";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:207:"Benefits used" = "Benefits used";
+--------------------------------------
+There are 2 repetitions of "Hospital cover"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2718:"SMART_COVER_LANDING_SCREEN_HOSPITAL_COVER_CELL_TEXT" = "Hospital cover";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4701:"HOSPITAL_COVER_CELL_TITLE" = "Hospital cover";
+--------------------------------------
+There are 3 repetitions of "All"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2772:"SMART_FIND_A_PROVIDER_SCREEN_ALL_SUBTITLE" = "All";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4092:"ALL" = "All";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3308:"FAZ_BUSINESS_OVERVIEW_XAXIS_ALL_LABEL" = "All";
+--------------------------------------
+There are 2 repetitions of "Pharmacies"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2784:"SMART_FIND_A_PROVIDER_SCREEN_PHARMACIES_TITLE" = "Pharmacies";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5664:"GENERIC_PHARMACIES_TITLE" = "Pharmacies";
+--------------------------------------
+There are 3 repetitions of "Out of hospital"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2925:"SMART_PROVIDER_SEARCH_RESULTS_SCOPE_TITLE_OUT_OF_HOSPITAL" = "Out of hospital";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5715:"BENEFITS_AND_LIMITS_OUT_OF_HOSPITAL" = "Out of hospital";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1633:"Out of hospital" = "Out of hospital";
+--------------------------------------
+There are 3 repetitions of "Membership number"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3129:"HEALTH_SMART_HEADER_MEMBERSHIP_NUMBER" = "Membership number";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3867:"MEMBERSHIP_NUMBER" = "Membership number";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4464:"CONTACT_INTERNATIONAL_SOS_CELL_MEMBERSHIP_NUMBER_TITLE" = "Membership number";
+--------------------------------------
+There are 3 repetitions of "Pay"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3216:"MEDXPRESS_PAYMENT_ALERT_PAY_BUTTON" = "Pay";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3222:"MEDXPRESS_PAY_BAR_BUTTON_TITLE" = "Pay";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1783:"Pay" = "Pay";
+--------------------------------------
+There are 3 repetitions of "Add a payment method"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3474:"HEALTH_MEDXPRESS_ADD_A_METHOD_OF_PAYMENT_CELL_TITLE_TEXT" = "Add a payment method";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4539:"WALLET_NO_ACCOUNTS_BUTTON_TEXT" = "Add a payment method";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:4157:"WALLET_ADD_ACCOUNT_CELL_TEXT" = "Add a payment method";
+--------------------------------------
+There are 2 repetitions of "International travel benefit (488kb)"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3810:"INTERNATION_TRAVEL_BENEFIT_488_KB" = "International travel benefit (488kb)";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4497:"INTERNATIONAL_TRAVEL_PAGE_CELL_INTERNATIONAL_TRAVEL_BENEFIT" = "International travel benefit (488kb)";
+--------------------------------------
+There are 2 repetitions of "Travelling with"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3822:"TRAVEL_LETTER_TRAVELLING_WITH_TITLE" = "Travelling with";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4434:"MEM_SMART_NEW_LETTER_REQUEST_PAGE_SECTION_TRAVELING_WITH" = "Travelling with";
+--------------------------------------
+There are 2 repetitions of "Select patient"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3912:"SELECT_PATIENT" = "Select patient";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4383:"NEW_ORDER_SELECT_PATIENT_SECTION_TITLE" = "Select patient";
+--------------------------------------
+There are 2 repetitions of "Chronic medicine"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3939:"CHRONIC_MEDICINE" = "Chronic medicine";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:6075:"HEALTH_RECORD_EVENT_CHRONIC_MEDICINE_TITLE" = "Chronic medicine";
+--------------------------------------
+There are 3 repetitions of "Send document to"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4359:"MEM_SMART_PREVIOUS_LETTER_PAGE_SECTION_SEND_DOCUMENT_TO" = "Send document to";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4419:"MEM_SMART_NEW_LETTER_REQUEST_PAGE_SECTION_SEND_DOCUMENT_TO" = "Send document to";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4455:"TAX_CERTIFICATE_PAGE_SECTION_EMAIL" = "Send document to";
+--------------------------------------
+There are 2 repetitions of "Medical cover"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4422:"MEDICAL_COVER" = "Medical cover";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4467:"INTERNATIONAL_TRAVEL_PAGE_CELL_MEDICAL_COVER" = "Medical cover";
+--------------------------------------
+There are 2 repetitions of "Paid to"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4668:"PAID_TO" = "Paid to";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4755:"MEM_HOSPITAL_CLAIM_CELL_PAID_TO" = "Paid to";
+--------------------------------------
+There are 2 repetitions of "Authorisation number"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4716:"AUTHORISATION_NUMBER_CELL_TITLE" = "Authorisation number";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4983:"AUTHORISATION_NUMBER" = "Authorisation number";
+--------------------------------------
+There are 2 repetitions of "Paid to Healthcare professional"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4722:"PAID_TO_HEALTHCARE_PROFESSIONAL" = "Paid to Healthcare professional";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4941:"HEALTH_LANDING_HOSPITAL_CLAIMS_BREAKDOWN_WHO_WAS_PAID_HEALTHCARE_PROFESSIONAL" = "Paid to Healthcare professional";
+--------------------------------------
+There are 2 repetitions of "Amount paid"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4737:"MEM_HOSPITAL_CLAIM_CELL_AMOUNT_PAID" = "Amount paid";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:4920:"HEALTH_LANDING_HOSPITAL_CLAIMS_BREAKDOWN_PAID" = "Amount paid";
+--------------------------------------
+There are 2 repetitions of "Confirm details"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5193:"PRIMARY_CARE_APPLICATION_CONFIRM_DETAILS_TITLE" = "Confirm details";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5259:"CONFIRM_DETAILS_TITLE" = "Confirm details";
+--------------------------------------
+There are 2 repetitions of "The benefits selected here will apply to all employees and their dependants. Benefits cannot be tailored for each household employee."
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5202:"PRIMARY_CARE_APPLICATION_OPTIONAL_TRAUMA_BENEFIT_FOOTER" = "The benefits selected here will apply to all employees and their dependants. Benefits cannot be tailored for each household employee.";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5292:"PRIMARY_CARE_PREMIUM_ESTIMATOR_TRAUMA_BENEFIT_SECTION_FOOTER_TEXT" = "The benefits selected here will apply to all employees and their dependants. Benefits cannot be tailored for each household employee.";
+--------------------------------------
+There are 2 repetitions of "Cover limit per trauma admission"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5208:"PRIMARY_CARE_OPTIONAL_TRAUMA_BENEFIT_AMOUNT_DETAIL_TEXT" = "Cover limit per trauma admission";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:5298:"PRIMARY_CARE_PREMIUM_ESTIMATOR_TRAUMA_BENEFIT_OPTIONS_SUBTITLE_TEXT" = "Cover limit per trauma admission";
+--------------------------------------
+GENERAL STATISTICS:
+--------------------------------------
+number of repeated strings:54
+number of repetitions:156
+all matched strings: "Contact this doctor", "You have declined this doctors request to view your health records.", "Are you sure you want to grant consent and accept the terms and conditions?", "Health Record Consent", "Pregnancy health record", "Healthy pregnancy library", "Kids health record", "Done", "Years", "Cancel", "Adequately managed", "Summary", "Email", "This application for hospital preauthorisation is pending. We will notify you within 48 hours if the application has been approved.", "Delivery details", "Treating doctor", "Discovery payment", "Add medicine", "Delete", "Every week", "Annual limit", "Taken", "Turn on notifications", "Turn on notifications from the Settings app to get reminders when to take your medicine.", "Status", "Contact number", "Could not revoke consent", "Interaction timeline", "Help", "Appointments", "Smart Network", "Prescribed Minimum Benefits", "International second opinion services", "Benefits used", "Hospital cover", "All", "Pharmacies", "Out of hospital", "Membership number", "Pay", "Add a payment method", "International travel benefit (488kb)", "Travelling with", "Select patient", "Chronic medicine", "Send document to", "Medical cover", "Paid to", "Authorisation number", "Paid to Healthcare professional", "Amount paid", "Confirm details", "The benefits selected here will apply to all employees and their dependants. Benefits cannot be tailored for each household employee.", "Cover limit per trauma admission", 
