@@ -1,6 +1,16 @@
 --------------------------------------
 There are 3 repetitions of "Submit a claim"
 --------------------------------------
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3330:"HEALTH_SUBMIT_CLAIM_CELL_TITLE" = "Submit a claim";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3873:"HEALTH_LANDING_SUBMIT_A_CLAIM_TITLE" = "Submit a claim";
-../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2458:"Submit a claim" = "Submit a claim";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3324:"HEALTH_SUBMIT_CLAIM_CELL_TITLE" = "Submit a claim";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3867:"HEALTH_LANDING_SUBMIT_A_CLAIM_TITLE" = "Submit a claim";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2455:"Submit a claim" = "Submit a claim";
+
+
+./MembersHealth/Sources/Strings/Health.strings
+UTF-8
+--------------------------------------
+GENERAL STATISTICS:
+--------------------------------------
+number of repeated strings:1
+number of repetitions:3
+all matched strings: "Submit a claim", 
