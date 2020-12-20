@@ -56,7 +56,7 @@ function findDuplications {
         fi
       fi
 
-      if [ "$countInHealth" -gt 0 ] && [ "$coutnInCommon" -eq 1 ]
+      if [ "$countInHealth" -gt 1 ] && [ "$coutnInCommon" -eq 1 ]
       then
         echo "-----------------HEALTH AND 1 COMMON-------------------"
         duplicateCommonLines=$(grep "$line;" $pathToCommon)

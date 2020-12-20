@@ -1,16 +1,43 @@
 --------------------------------------
-There are 3 repetitions of "My pregnancy"
+There are 10 repetitions of "Try again"
 --------------------------------------
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3:"YF_ONBOARDING_TITLE_MY_PREGNANCY" = "My pregnancy";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:189:"YF_PREGNANCY_DASHBOARD_SCREEN_TITLE" = "My pregnancy";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3279:"HEALTH_LANDING_MY_PREGNANCY_TITLE" = "My pregnancy";
-GENERIC_BABIES
-My pregnancy
-./MembersHealth/Sources/Strings/Health.strings
-UTF-8
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:111:"YF_BABY_LANDING_REGISTRATION_ERROR_BUTTON_TITLE" = "Try again";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:189:"YF_PREGNANCY_DASHBPARD_DEACTIVATE_PROFILE_ERROR_ALERT_TRY_AGAIN_BUTTON_TITLE" = "Try again";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:240:"YF_PREGNANCY_DASHBOARD_UPLOAD_PROFILE_ERROR_ALERT_BUTTON_TITLE" = "Try again";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:381:"YF_ALERT_TRY_AGAIN_BUTTON_TITLE" = "Try again";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:105:"ALERT_VIEW_TRY_AGAIN_BUTTON" = "Try again";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:975:"GENERIC_TRY_AGAIN_BUTTON_TITLE" = "Try again";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1231:"LOGIN_ALERT_TRY_AGAIN_BUTTON_TITLE" = "Try again";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1735:"PORTFOLIO_CARD_RETRY_BUTTON" = "Try again";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3017:"STATUS_VIEW_TRY_AGAIN_BUTTON_TITLE" = "Try again";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:3698:"REGISTRATION_PROFILE_TRY_AGAIN" = "Try again";
 --------------------------------------
-There are 3 repetitions of "Consent requested"
+There are 6 repetitions of "Connection error"
 --------------------------------------
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:87:"YF_MY_BABY_CONSENT_REQUESTED" = "Consent requested";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2175:"SMART_APPOINTMENT_DETAIL_SCREEN_REQUESTED_CONSENT_CELL_TITLE" = "Consent requested";
-../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2202:"HEALTH_PROVIDER_DETAIL_SCREEN_CONSENT_REQUESTED_CELL_TITLE" = "Consent requested";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:369:"YF_CONNECTION_ERROR_TITLE" = "Connection error";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:516:"ALERT_VIEW_CONNECTION_ERROR_TITLE" = "Connection error";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:1800:"INSURE_PRE_INSPECTION_FORM_SCREEN_CONNECTION_ERROR_HUD_TITLE" = "Connection error";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2580:"HEALTH_UPLOAD_YOUR_HEALTH_DATA_NOTIFICATION_TITLE_CONNECTION_ERROR" = "Connection error";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:360:"Connection error" = "Connection error";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:978:"GENERIC_CONNECTION_ERROR_SCREEN_TITLE" = "Connection error";
+--------------------------------------
+There are 4 repetitions of "Members"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2877:"MEMBER_SELECTION_SCREEN_TITLE" = "Members";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2958:"BENEFIT_FILTER_HEADER" = "Members";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1405:"Members" = "Members";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:2182:"SERVICE_INTERACTION_MEMBER_TITLE" = "Members";
+--------------------------------------
+There are 5 repetitions of "Contact ER24"
+--------------------------------------
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:2916:"CONTACT_INTERNATIONAL_SOS_CELL_TITLE" = "Contact ER24";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3396:"CONTACT_INTERNATIONAL_SOS_TITLE" = "Contact ER24";
+../members-health-ios-backup/members-health-ios/MembersHealth/Sources/Strings/Health.strings:3420:"INTERNATIONAL_TRAVEL_PAGE_CELL_CONTACT_INTERNATIONAL_SOS" = "Contact ER24";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:390:"Contact International SOS" = "Contact ER24";
+../members-health-ios-backup/members-health-ios/App/Pods/MembersLocalization/MembersLocalization/Resources/Common.strings:1114:"InternationalTravelPage.cell.ContactInernationalSOS" = "Contact ER24";
+--------------------------------------
+GENERAL STATISTICS:
+--------------------------------------
+number of repeated strings:4
+number of repetitions:25
+all matched strings: "Try again", "Connection error", "Members", "Contact ER24", 
